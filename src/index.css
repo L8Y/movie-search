@@ -90,7 +90,7 @@ body {
   box-shadow: 6px 6px var(--border);
 }
 
-.search__img {
+.result__img {
   width: 20rem;
   height: 30rem;
 }
